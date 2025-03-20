@@ -78,6 +78,12 @@ This project involves analyzing customer, product, and sales data using SQL. The
 
 **Tools Used**: SQL Server (for `GETDATE()`, `DATEDIFF`), CTEs, Window Functions.  
 
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
 --- 
 
 **Unlock insights, optimize strategies, and drive growth!** 🚀  
